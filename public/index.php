@@ -9,7 +9,7 @@
             Welcome to my first website. It's got HTML and stuff.
         </p>
         <p>
-            &copy; <?php echo date("Y",); ?>
+            &copy; <?php echo date("Y"); ?>
         </p>
     </body>
 </html>
